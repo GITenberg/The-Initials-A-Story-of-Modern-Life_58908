@@ -1,11 +1,16 @@
 _repo: The-Initials-A-Story-of-Modern-Life_58908
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58908-h/images/cover.jpg
 creator:
   author:
     agent_name: Tautphoeus, Jemima Montgomery
     gutenberg_agent_id: '50205'
     url: http://www.gutenberg.org/2009/agents/50205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58908#The-Initials-A-Story-of-Modern-Life
 gutenberg_issued: '2019-02-17'
 gutenberg_type: Text
 identifiers:
